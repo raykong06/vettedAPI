@@ -1,0 +1,35 @@
+.titl{
+    color:lime;
+    font-size:30px;
+    display:flex;
+    justify-content:center;
+    background-color:#FF5733;
+    font-family:Courier New;
+  }
+  
+  span{
+    color:#FF5733;
+    font-size:20px;
+    font-family:Courier New;
+    
+  }
+  
+  label{
+    font-family:Courier New;
+    color:#FF5733;
+  }
+  input[type="submit"]{
+    color:red;
+    font-family:Courier New;
+  }
+  div{
+    border:5px solid #FF5733;
+    height:300px;
+    padding:0px;
+    
+  }
+  
+  p{
+    color: #FF5733;
+    font-family:Courier New;
+  }
